@@ -25,13 +25,13 @@
 var studentsGrade = 2
 
 if (studentsGrade === 10) {
-    console.log('Amazing')
+    console.log('Štreberu')
 } else if (studentsGrade === 5) {
-    console.log('Good')
+    console.log('To nije ni 6')
 } else if (studentsGrade === 3){
-    console.log('Poor')
+    console.log('jbg')
 } else if (studentsGrade === 0){
-    console.log('Fail')
+    console.log('Gluuupanee')
 } else {
     console.log('Loohoozeherr!')
 }
